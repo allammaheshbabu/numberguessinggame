@@ -1,0 +1,20 @@
+Enter Lower bound:- 1
+Enter Upper bound:- 43
+
+	You've only  5  chances to guess the integer!
+
+Guess a number:- 23
+You Guessed too high!
+Guess a number:- 12
+You guessed too small!
+Guess a number:- 18
+You guessed too small!
+Guess a number:- 20
+You guessed too small!
+Guess a number:- 22
+You Guessed too high!
+Guess a number:- 21
+Congratulations you did it in  6  try
+
+The number is 21
+	Better Luck Next time!
